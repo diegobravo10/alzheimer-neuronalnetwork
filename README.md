@@ -1,5 +1,3 @@
-# alzheimer-neuronalnetwork
-
 ## Descripción del Problema
 El diagnóstico clínico del Alzheimer suele ser complejo debido a la similitud de síntomas con el envejecimiento natural. Este proyecto utiliza Deep Learning para analizar patrones no lineales entre factores de riesgo (hipertensión, IMC, hábitos), métricas cognitivas (MMSE) y datos demográficos.
 
