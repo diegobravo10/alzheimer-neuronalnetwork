@@ -33,3 +33,16 @@ El desarrollo se dividió en 4 fases estratégicas:
     * Comparativa de modelos (Base vs. Optimizado).
   
 <img width="920" height="575" alt="Image" src="https://github.com/user-attachments/assets/16df07c6-487e-429d-8068-134d8402792f" />
+
+<img width="886" height="603" alt="Image" src="https://github.com/user-attachments/assets/a7765e95-bbb7-4e7f-9533-26eae959bd56" />
+
+<img width="886" height="688" alt="Image" src="https://github.com/user-attachments/assets/e194b535-a145-4e52-b8a3-8ba14add6093" />
+
+## Resultados
+Gracias a la optimización y el uso de **MLflow** para monitorear el desempeño, se lograron las siguientes mejoras:
+
+| Métrica | Modelo Base | Modelo final |
+| :--- | :---: | :---: |
+| **Accuracy** | ~82% | **~79%** |
+| **Recall (Sensibilidad)** | **~57%** | **~69%** |
+| **F1-Score** | **~69%** | **~70%** |
